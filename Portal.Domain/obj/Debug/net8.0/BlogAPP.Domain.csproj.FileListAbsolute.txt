@@ -1,0 +1,14 @@
+D:\test\BlogAPICleanArchitecture\BlogAPI\Domain\bin\Debug\net8.0\BlogAPP.Domain.deps.json
+D:\test\BlogAPICleanArchitecture\BlogAPI\Domain\bin\Debug\net8.0\BlogAPP.Domain.dll
+D:\test\BlogAPICleanArchitecture\BlogAPI\Domain\bin\Debug\net8.0\BlogAPP.Domain.pdb
+D:\test\BlogAPICleanArchitecture\BlogAPI\Domain\obj\Debug\net8.0\BlogAPP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\BlogAPICleanArchitecture\BlogAPI\Domain\obj\Debug\net8.0\BlogAPP.Domain.AssemblyInfoInputs.cache
+D:\test\BlogAPICleanArchitecture\BlogAPI\Domain\obj\Debug\net8.0\BlogAPP.Domain.AssemblyInfo.cs
+D:\test\BlogAPICleanArchitecture\BlogAPI\Domain\obj\Debug\net8.0\BlogAPP.Domain.csproj.CoreCompileInputs.cache
+D:\test\BlogAPICleanArchitecture\BlogAPI\Domain\obj\Debug\net8.0\BlogAPP.Domain.dll
+D:\test\BlogAPICleanArchitecture\BlogAPI\Domain\obj\Debug\net8.0\refint\BlogAPP.Domain.dll
+D:\test\BlogAPICleanArchitecture\BlogAPI\Domain\obj\Debug\net8.0\BlogAPP.Domain.pdb
+D:\test\BlogAPICleanArchitecture\BlogAPI\Domain\obj\Debug\net8.0\ref\BlogAPP.Domain.dll
+D:\test\BlogAPICleanArchitecture\BlogAPI\Domain\obj\Debug\net8.0\BlogAPP.Domain.csproj.AssemblyReference.cache
+D:\test\BlogAPICleanArchitecture\BlogAPI\Domain\bin\Debug\net8.0\BlogAPP.Domain.runtimeconfig.json
+D:\test\BlogAPICleanArchitecture\BlogAPI\Domain\obj\Debug\net8.0\BlogAPP.Domain.genruntimeconfig.cache

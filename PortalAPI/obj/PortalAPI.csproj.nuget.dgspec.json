@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\test\\PortalApp\\Portal\\PortalAPI\\PortalAPI.csproj": {}
+    "D:\\test\\Portal\\PortalAPI\\PortalAPI.csproj": {}
   },
   "projects": {
-    "D:\\test\\PortalApp\\Portal\\Portal.Application\\Portal.Application.csproj": {
+    "D:\\test\\Portal\\Portal.Application\\Portal.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\test\\PortalApp\\Portal\\Portal.Application\\Portal.Application.csproj",
+        "projectUniqueName": "D:\\test\\Portal\\Portal.Application\\Portal.Application.csproj",
         "projectName": "Portal.Application",
-        "projectPath": "D:\\test\\PortalApp\\Portal\\Portal.Application\\Portal.Application.csproj",
+        "projectPath": "D:\\test\\Portal\\Portal.Application\\Portal.Application.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\test\\PortalApp\\Portal\\Portal.Application\\obj\\",
+        "outputPath": "D:\\test\\Portal\\Portal.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\test\\PortalApp\\Portal\\Portal.Domain\\Portal.Domain.csproj": {
-                "projectPath": "D:\\test\\PortalApp\\Portal\\Portal.Domain\\Portal.Domain.csproj"
+              "D:\\test\\Portal\\Portal.Domain\\Portal.Domain.csproj": {
+                "projectPath": "D:\\test\\Portal\\Portal.Domain\\Portal.Domain.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "D:\\test\\PortalApp\\Portal\\Portal.Domain\\Portal.Domain.csproj": {
+    "D:\\test\\Portal\\Portal.Domain\\Portal.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\test\\PortalApp\\Portal\\Portal.Domain\\Portal.Domain.csproj",
+        "projectUniqueName": "D:\\test\\Portal\\Portal.Domain\\Portal.Domain.csproj",
         "projectName": "Portal.Domain",
-        "projectPath": "D:\\test\\PortalApp\\Portal\\Portal.Domain\\Portal.Domain.csproj",
+        "projectPath": "D:\\test\\Portal\\Portal.Domain\\Portal.Domain.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\test\\PortalApp\\Portal\\Portal.Domain\\obj\\",
+        "outputPath": "D:\\test\\Portal\\Portal.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -164,14 +164,14 @@
         }
       }
     },
-    "D:\\test\\PortalApp\\Portal\\Portal.Infrastructure\\Portal.Infrastructure.csproj": {
+    "D:\\test\\Portal\\Portal.Infrastructure\\Portal.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\test\\PortalApp\\Portal\\Portal.Infrastructure\\Portal.Infrastructure.csproj",
+        "projectUniqueName": "D:\\test\\Portal\\Portal.Infrastructure\\Portal.Infrastructure.csproj",
         "projectName": "Portal.Infrastructure",
-        "projectPath": "D:\\test\\PortalApp\\Portal\\Portal.Infrastructure\\Portal.Infrastructure.csproj",
+        "projectPath": "D:\\test\\Portal\\Portal.Infrastructure\\Portal.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\test\\PortalApp\\Portal\\Portal.Infrastructure\\obj\\",
+        "outputPath": "D:\\test\\Portal\\Portal.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -192,11 +192,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\test\\PortalApp\\Portal\\Portal.Application\\Portal.Application.csproj": {
-                "projectPath": "D:\\test\\PortalApp\\Portal\\Portal.Application\\Portal.Application.csproj"
+              "D:\\test\\Portal\\Portal.Application\\Portal.Application.csproj": {
+                "projectPath": "D:\\test\\Portal\\Portal.Application\\Portal.Application.csproj"
               },
-              "D:\\test\\PortalApp\\Portal\\Portal.Domain\\Portal.Domain.csproj": {
-                "projectPath": "D:\\test\\PortalApp\\Portal\\Portal.Domain\\Portal.Domain.csproj"
+              "D:\\test\\Portal\\Portal.Domain\\Portal.Domain.csproj": {
+                "projectPath": "D:\\test\\Portal\\Portal.Domain\\Portal.Domain.csproj"
               }
             }
           }
@@ -252,14 +252,14 @@
         }
       }
     },
-    "D:\\test\\PortalApp\\Portal\\PortalAPI\\PortalAPI.csproj": {
+    "D:\\test\\Portal\\PortalAPI\\PortalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\test\\PortalApp\\Portal\\PortalAPI\\PortalAPI.csproj",
+        "projectUniqueName": "D:\\test\\Portal\\PortalAPI\\PortalAPI.csproj",
         "projectName": "PortalAPI",
-        "projectPath": "D:\\test\\PortalApp\\Portal\\PortalAPI\\PortalAPI.csproj",
+        "projectPath": "D:\\test\\Portal\\PortalAPI\\PortalAPI.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\test\\PortalApp\\Portal\\PortalAPI\\obj\\",
+        "outputPath": "D:\\test\\Portal\\PortalAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -280,14 +280,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\test\\PortalApp\\Portal\\Portal.Application\\Portal.Application.csproj": {
-                "projectPath": "D:\\test\\PortalApp\\Portal\\Portal.Application\\Portal.Application.csproj"
+              "D:\\test\\Portal\\Portal.Application\\Portal.Application.csproj": {
+                "projectPath": "D:\\test\\Portal\\Portal.Application\\Portal.Application.csproj"
               },
-              "D:\\test\\PortalApp\\Portal\\Portal.Domain\\Portal.Domain.csproj": {
-                "projectPath": "D:\\test\\PortalApp\\Portal\\Portal.Domain\\Portal.Domain.csproj"
+              "D:\\test\\Portal\\Portal.Domain\\Portal.Domain.csproj": {
+                "projectPath": "D:\\test\\Portal\\Portal.Domain\\Portal.Domain.csproj"
               },
-              "D:\\test\\PortalApp\\Portal\\Portal.Infrastructure\\Portal.Infrastructure.csproj": {
-                "projectPath": "D:\\test\\PortalApp\\Portal\\Portal.Infrastructure\\Portal.Infrastructure.csproj"
+              "D:\\test\\Portal\\Portal.Infrastructure\\Portal.Infrastructure.csproj": {
+                "projectPath": "D:\\test\\Portal\\Portal.Infrastructure\\Portal.Infrastructure.csproj"
               }
             }
           }

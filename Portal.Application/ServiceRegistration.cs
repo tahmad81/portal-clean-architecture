@@ -13,7 +13,6 @@ namespace Portal.Application
       public static IServiceCollection RegisterApplicationServices(this IServiceCollection services)
         {
             services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(ServiceRegistration).Assembly));
-           
             return services;
         }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\test\\PortalApp\\Portal\\Portal.Domain\\Portal.Domain.csproj": {}
+    "D:\\test\\Portal\\Portal.Domain\\Portal.Domain.csproj": {}
   },
   "projects": {
-    "D:\\test\\PortalApp\\Portal\\Portal.Domain\\Portal.Domain.csproj": {
+    "D:\\test\\Portal\\Portal.Domain\\Portal.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\test\\PortalApp\\Portal\\Portal.Domain\\Portal.Domain.csproj",
+        "projectUniqueName": "D:\\test\\Portal\\Portal.Domain\\Portal.Domain.csproj",
         "projectName": "Portal.Domain",
-        "projectPath": "D:\\test\\PortalApp\\Portal\\Portal.Domain\\Portal.Domain.csproj",
+        "projectPath": "D:\\test\\Portal\\Portal.Domain\\Portal.Domain.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\test\\PortalApp\\Portal\\Portal.Domain\\obj\\",
+        "outputPath": "D:\\test\\Portal\\Portal.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

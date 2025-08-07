@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "etCr1tNcySQ=",
+  "dgSpecHash": "JVZ2WIFEEHg=",
   "success": true,
-  "projectFilePath": "D:\\test\\PortalApp\\Portal\\Portal.Application\\Portal.Application.csproj",
+  "projectFilePath": "D:\\test\\Portal\\Portal.Application\\Portal.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\autofac\\8.3.0\\autofac.8.3.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

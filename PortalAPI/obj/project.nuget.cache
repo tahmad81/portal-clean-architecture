@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9L1j8zAh+uk=",
+  "dgSpecHash": "LeY2FduPa/o=",
   "success": true,
-  "projectFilePath": "D:\\test\\PortalApp\\Portal\\PortalAPI\\PortalAPI.csproj",
+  "projectFilePath": "D:\\test\\Portal\\PortalAPI\\PortalAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\autofac\\8.3.0\\autofac.8.3.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
@@ -124,9 +124,9 @@
       "code": "NU1608",
       "level": "Warning",
       "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 13.0.0 was resolved.",
-      "projectPath": "D:\\test\\PortalApp\\Portal\\PortalAPI\\PortalAPI.csproj",
+      "projectPath": "D:\\test\\Portal\\PortalAPI\\PortalAPI.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\test\\PortalApp\\Portal\\PortalAPI\\PortalAPI.csproj",
+      "filePath": "D:\\test\\Portal\\PortalAPI\\PortalAPI.csproj",
       "libraryId": "MediatR",
       "targetGraphs": [
         "net8.0"
